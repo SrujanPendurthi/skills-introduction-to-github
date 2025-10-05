@@ -1,1 +1,1 @@
-hello i am learning github
+Welcome to my GitHub profile!
